@@ -8,7 +8,7 @@ section, header, article, nav {
 }
 
 body {
-  margin: 1em 10%;
+  margin: 1em auto;
   background-image: url(../images/background.gif);
   background-attachment: fixed;
   background-position: top left;
@@ -16,7 +16,7 @@ body {
   max-width: 80em;
 }
 header {
-  background-image: url(../images/guitarist.gif);
+  background-image: url(../images/psu.jpg);
   background-repeat: no-repeat;
   background-position: bottom right;
   border-width: .1em;
