@@ -190,7 +190,7 @@ ul#jobs li p,
 ul#schools li > p,
 ul#recommends li > p {float: right; width: 57%; margin-bottom: 25px;}
 
-.details h5 {font-style: italic;}
+.details h5 {font-style: italic;margin: 0px auto 40px;}
 
 /* ------------------------*/
 /*---COPYRIGHT STUFF------*/

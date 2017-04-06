@@ -4,11 +4,11 @@ body {
 }
 a:link {
   color: #445;
-  background-color: #eb6;
+/*  background-color: #eb6;*/
 }
 a:visited {
   color: #345;
-  background-color: #eb6;
+/*  background-color: #eb6;*/
 }
 a:hover {
   color: #667;
